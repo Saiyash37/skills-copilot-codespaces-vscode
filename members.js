@@ -2,7 +2,7 @@ function skillsMembers () {
   return {
     members: [
       {
-        name: 'John Doe',
+        name: 'John Doel',
         skills: ['JavaScript', 'React', 'Node']
       },
       {
